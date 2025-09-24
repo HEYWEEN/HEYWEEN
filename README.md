@@ -33,10 +33,11 @@ Hi there! I'm Yiwen He, an undergraduate student in Software Engineering at Nanj
 
 ## 🚀 Currently Focusing On:
 
-* Software Engineering Fundamentals
+* PA of ICS,NJUCS
 * Algorithms and Data Structures
 * Front-end and Back-end Development
-* Open Source Community Participation
+* Development of Education
+* My Blog : HEYWEEN.github.io
 
 ---
 ⭐️ From [@HEYWEEN](https://github.com/HEYWEEN) 💕
