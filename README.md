@@ -18,7 +18,7 @@ Hi there! I'm Yiwen He, an undergraduate student in Software Engineering at Nanj
 
 * Software Engineering Undergraduate
 * Programming Enthusiast / Technology Explorer
-* Java / Python / C++ / Web Development
+* C++ / Python / Web Development
 * Chinese / English
 * Open Source Contributor
 
@@ -40,4 +40,4 @@ Hi there! I'm Yiwen He, an undergraduate student in Software Engineering at Nanj
 * My Blog : HEYWEEN.github.io
 
 ---
-⭐️ From [@HEYWEEN](https://github.com/HEYWEEN) 💕
+⭐️ From [@HEYWEEN](https://github.com/HEYWEEN) 
